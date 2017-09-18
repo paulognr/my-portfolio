@@ -1,0 +1,14 @@
+version: 0.1
+
+phases:
+  build:
+    commandas:
+      - echo Nothing to do yet
+
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Paulo-Roberto-Francisco-Junior.pdf
+    - styles/main.css
+    - images/*
