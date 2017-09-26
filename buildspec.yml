@@ -3,7 +3,8 @@ version: 0.1
 phases:
   build:
     commandas:
-      - echo Nothing to do yet
+      - npm install
+      - npm run webpack
 
 artifacts:
   files:
@@ -12,3 +13,4 @@ artifacts:
     - Paulo-Roberto-Francisco-Junior.pdf
     - styles/main.css
     - images/*
+    - dist/bundles.js
