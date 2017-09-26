@@ -2,7 +2,7 @@ version: 0.1
 
 phases:
   build:
-    commandas:
+    commands:
       - npm install
       - npm run webpack
 
