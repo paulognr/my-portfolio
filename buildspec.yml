@@ -13,4 +13,4 @@ artifacts:
     - Paulo-Roberto-Francisco-Junior.pdf
     - styles/main.css
     - images/*
-    - dist/bundles.js
+    - dist/bundle.js
